@@ -1,3 +1,2 @@
 # DevOps_aula5_06092019
-
-a hora é agora
+a hora já passou >>>>>>> master
